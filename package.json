@@ -1,5 +1,5 @@
 {
-  "name": "mockstub",
+  "name": "chaincodemockstub",
   "version": "1.0.0",
   "description": "Mock implementation of the hyperledger fabric-shim package for testing",
   "main": "dist/index.js",
